@@ -9,7 +9,7 @@ void main() {
 }
 
 class MyApp extends StatelessWidget {
-  final String appTitle = 'Телефонное приложение';
+  final String appTitle = 'Приложение для телефона';
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
